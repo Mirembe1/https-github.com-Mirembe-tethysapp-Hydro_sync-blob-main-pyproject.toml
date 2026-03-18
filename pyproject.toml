@@ -42,7 +42,7 @@ where = ["."]
 include = ["*"]
 
 [tool.setuptools.package-data]
-"tethysapp.component_playground" = [
+"tethysapp.Hydro_sync" = [
     "templates/**/*",
     "public/**/*",
     "resources/**/*",
